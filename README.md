@@ -7,19 +7,13 @@
 
 - 👨‍💻 I’m currently working on [Data Science project](https://github.com/Varshatm218/datascienceproject1)
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1kAyTNCpY8hbHKJKZqc-edg_uehkqLLdU/view?usp=drivesdk)
 
-- 💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
+- 💻 All of my projects are available on [GitHub](https://github.com/varshatm218)
 
-- 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg)
+- 💬 Ask me about **Coding, Data science, python**
 
-- 💬 Ask me about **Programming, Flutter Development, Cyber Security**
-
-- 📫 Reach out to me at **chandansgowda167@gmail.com**
-
-# 💫 About Me:
-🌱 I’m currently learning React<br><br>👨‍💻 I’m currently working on Datascience project<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming, Data science, python<br><br>📫 Reach out to me at varshatm21@gmail.com
-
+- 📫 Reach out to me at **varshatm218@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varshatm218) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/varsha_TM218?s=09) 
