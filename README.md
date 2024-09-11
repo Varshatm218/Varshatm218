@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varsha T M</h1>
-<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+<h3 align="center">Passionate coding, attending events, and engaging in continuous personal development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
