@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React 
 
-- 👨‍💻 I’m currently working on [Resonate](https://github.com/AOSSIE-Org/Resonate)
+- 👨‍💻 I’m currently working on [Data Science project](https://github.com/Varshatm218/datascienceproject1)
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
 
