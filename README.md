@@ -1,3 +1,22 @@
+<h1 align="center">Hi 👋, I'm Chandan S Gowda</h1>
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
+
+- 🌱 I’m currently learning React 
+
+- 👨‍💻 I’m currently working on [Resonate](https://github.com/AOSSIE-Org/Resonate)
+
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
+
+- 💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
+
+- 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg)
+
+- 💬 Ask me about **Programming, Flutter Development, Cyber Security**
+
+- 📫 Reach out to me at **chandansgowda167@gmail.com**
+
 # 💫 About Me:
 🌱 I’m currently learning React<br><br>👨‍💻 I’m currently working on Datascience project<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming, Data science, python<br><br>📫 Reach out to me at varshatm21@gmail.com
 
