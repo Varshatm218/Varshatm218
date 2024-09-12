@@ -16,7 +16,7 @@
 - 📫 Reach out to me at **varshatm218@gmail.com**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varshatm218) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/varsha_TM218?s=09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_va.r.sha_/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varshatm218/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://your-leetcode-profile-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varshatm218) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/varsha_TM218?s=09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_va.r.sha_/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varshatm218/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/varshatm218/)
 
 
 # 📊 GitHub Stats:
