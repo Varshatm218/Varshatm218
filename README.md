@@ -11,7 +11,7 @@
 
 - 💻 All of my projects are available on [GitHub](https://github.com/varshatm218)
   
-- Know more about me [portfolio](https://varshatm218.github.io/varshatm.github.io/)
+- 🤷‍♀️ Know more about me [portfolio](https://varshatm218.github.io/varshatm.github.io/)
 
 - 💬 Ask me about **Coding, Data science, python**
 
