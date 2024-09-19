@@ -10,6 +10,8 @@
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1kAyTNCpY8hbHKJKZqc-edg_uehkqLLdU/view?usp=drivesdk)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/varshatm218)
+  
+- Know more about me[portfolio].(https://varshatm218.github.io/varshatm.github.io/)
 
 - 💬 Ask me about **Coding, Data science, python**
 
