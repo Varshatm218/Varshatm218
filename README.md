@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 👨‍💻 I’m currently working on [Data Science project](https://github.com/Varshatm218/datascienceproject1)
+- 👨‍💻 I’m currently working on [Data Science project](https://github.com/Varshatm218/Stock_market_prediction)
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1kAyTNCpY8hbHKJKZqc-edg_uehkqLLdU/view?usp=drivesdk)
 
@@ -24,7 +24,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=varshatm218&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=varshatm218&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshatm218&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 # 💻 Tech Stack:
