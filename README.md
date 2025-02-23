@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 👨‍💻 I’m currently working on [Data Science project](https://github.com/Varshatm218/Stock_market_prediction)
+- 👨‍💻 I’m currently working on [EduAssistant](https://github.com/Varshatm218/EduAssistant_for_disabled_students/tree/main)
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1kAyTNCpY8hbHKJKZqc-edg_uehkqLLdU/view?usp=drivesdk)
 
