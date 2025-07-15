@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working on [Ingredient Analyser](https://github.com/Varshatm218/Ingredient_Analyser)
 
-- 📑 Check out my LinedIn here - [LinedIn](https://www.linkedin.com/in/varshatm218)
+- 📑 Check out my LinkedIn here - [LinkedIn](https://www.linkedin.com/in/varshatm218)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/varshatm218)
   
