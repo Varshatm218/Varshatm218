@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshatm218&label=Profile%20views&color=0e75b6&style=flat" alt="varshatm" /> </p>
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python Development
 
-- 👨‍💻 I’m currently working on [EduAssistant](https://github.com/Varshatm218/EduAssistant_for_disabled_students/tree/main)
+- 👨‍💻 I’m currently working on [Ingredient Analyser](https://github.com/Varshatm218/Ingredient_Analyser)
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1kAyTNCpY8hbHKJKZqc-edg_uehkqLLdU/view?usp=drivesdk)
 
